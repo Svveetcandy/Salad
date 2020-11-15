@@ -1,0 +1,13 @@
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.exe
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.deps.json
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.runtimeconfig.json
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.runtimeconfig.dev.json
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.dll
+E:\2 КУРС\ЯП\Salad\Salad\bin\Debug\netcoreapp3.1\Salad.pdb
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.csprojAssemblyReference.cache
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.AssemblyInfoInputs.cache
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.AssemblyInfo.cs
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.dll
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.pdb
+E:\2 КУРС\ЯП\Salad\Salad\obj\Debug\netcoreapp3.1\Salad.genruntimeconfig.cache
